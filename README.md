@@ -1,3 +1,5 @@
+See http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-handler.html
+
 # node-lambda-template
 
 ![node-lambda-template](../master/node-lambda-template.png?raw=true)
